@@ -62,7 +62,7 @@ password: admin123
 
 
 **Demo - Deployed over infinityfree**
-https://iiitl-automation.epizy.com/
+https://www.iiitl-automation.epizy.com/
 
 
 
